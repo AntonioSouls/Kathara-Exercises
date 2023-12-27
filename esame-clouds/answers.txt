@@ -1,0 +1,3 @@
+a) Il router id di r21 è 120.20.3.2
+b) Il designated router della LAN G è b03;
+c) Solamente una
